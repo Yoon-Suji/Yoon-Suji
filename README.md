@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 📫 e-mail: jidl88@ewhain.net
 
+📝 blog: https://no-day-but-today.tistory.com/
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ysgg5045)](https://solved.ac/ysgg5045)
