@@ -1,12 +1,6 @@
 
 <div align="center">
 <h2>Hi, I'm Suji Yoon 👋 </h2>
-<p>I am a junior developer who has mainly been developing back-end servers and blockchain. </p>
-<p>Enjoy challenging new skills or fields and prefer to share their knowledge with others and grow together. </p>
-<p>I want to be a "developer I want to work with." I deeply understand the importance of collaboration and place great value on team work through smooth communication and cooperation with colleagues from various fields.</p>
-</div>
-
-***
 
 <div align="center">
   <h3>Skill</h3>
